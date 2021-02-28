@@ -1,0 +1,10 @@
+public class Hiprasad {
+
+    public static void main(String[] args) {
+
+        // Display the message on command prompt
+        System.out.println("Chankok.com - Hi prasad!"); 
+
+    }	
+
+}
